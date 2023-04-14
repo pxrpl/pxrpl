@@ -1,7 +1,9 @@
-# Val
+# Vicent
 
-Hello i'm val! I am a Developer
+Hello! I'm Vicent, a developer that makes sites, apps and some games
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxrpl&count_private=true)
+You might be asking about my username, I created this account long time ago and now its too late to change it sadly.
+(Visit my website)[https://vicent.us] .
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxrpl&layout=compact)](https://robyx.cf)
+## My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=pxrpl&theme=dark&border_radius=10)](https://git.io/streak-stats)
