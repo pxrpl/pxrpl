@@ -11,5 +11,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxrpl&show_icons=true&theme=dark&locale=en" alt="pxrpl" /></p>
 
-
-<img src="https://vcnt.eu/images/Signature.svg" height="60">
